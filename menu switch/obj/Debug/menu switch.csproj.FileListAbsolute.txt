@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\menu switch\menu switch\bin\Debug\menu switch.exe.config
+C:\Users\Mauricio M\Downloads\menu switch\menu switch\bin\Debug\menu switch.exe
+C:\Users\Mauricio M\Downloads\menu switch\menu switch\bin\Debug\menu switch.pdb
+C:\Users\Mauricio M\Downloads\menu switch\menu switch\obj\Debug\menu switch.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\menu switch\menu switch\obj\Debug\menu switch.exe
+C:\Users\Mauricio M\Downloads\menu switch\menu switch\obj\Debug\menu switch.pdb
